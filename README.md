@@ -1,5 +1,6 @@
-# mind_field_stilwell_brain
-The neural model used in the Stilwell Brain episode of Mind Field.
+# Mind Field S3 E3 - The Stilwell Brain
+
+This repo contains the neural model used in the Stilwell Brain episode of Mind Field.
 
 I'm the scientist in the episode. This repo contains the model we ended up using (there were many 
 versions as the number of participants kept changing).  The biggest challenge was making it simple
